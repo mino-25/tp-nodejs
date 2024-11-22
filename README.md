@@ -29,13 +29,13 @@
     "title": "Updated Title",
     "body": "Updated Body Content"
   }
-
+---
 ### 4. GET - Commentaires du post ayant l’identifiant 1
 - **Méthode** : GET  
 - **URL** : `https://jsonplaceholder.typicode.com/posts/1/comments`  
 - **Paramètres** : Aucun  
 - **Résultat attendu** : Une liste des commentaires associés au post ayant `id=1`.
-
+---
 ### 5. GET - Photos affiliées à l’album numéro 2
 - **Méthode** : GET  
 - **URL** : `https://jsonplaceholder.typicode.com/albums/2/photos`  
