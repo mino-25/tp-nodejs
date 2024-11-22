@@ -29,6 +29,7 @@
     "title": "Updated Title",
     "body": "Updated Body Content"
   }
+  ```
 ---
 ### 4. GET - Commentaires du post ayant l’identifiant 1
 - **Méthode** : GET  
